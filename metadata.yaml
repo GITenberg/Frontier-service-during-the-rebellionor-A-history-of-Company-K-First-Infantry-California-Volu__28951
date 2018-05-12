@@ -1,0 +1,32 @@
+_repo: Frontier-service-during-the-rebellionor-A-history-of-Company-K-First-Infantry-California-Volu__28951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pettis, George H.
+    alias: Pettis, George Henry
+    birthdate: 1834
+    gutenberg_agent_id: '33602'
+    url: http://www.gutenberg.org/2009/agents/33602
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28951'
+  lccn: '10032020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, New -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'California Infantry. 1st Regiment, 1861-1865. Company K'
+title: 'Frontier service during the rebellion
+
+  or, A history of Company K, First Infantry, California Volunteers'
+url: http://www.gutenberg.org/ebooks/28951
