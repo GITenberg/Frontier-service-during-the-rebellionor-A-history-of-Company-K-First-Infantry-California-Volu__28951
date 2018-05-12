@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33602'
     url: http://www.gutenberg.org/2009/agents/33602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28951#Frontier-service-during-the-rebellionor-A-history-of-Company-K-First-Infantry-California-Volu_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
